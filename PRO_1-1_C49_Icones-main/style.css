@@ -1,0 +1,49 @@
+h1{
+    color:midnightblue;
+}
+
+h2{
+    color:darkolivegreen;
+}
+
+h3{
+    color:blueviolet;
+}
+
+h4{
+    color:darkmagenta;
+}
+
+h5{
+    color:firebrick;
+}
+
+h6{
+    color:mediumblue;
+}
+
+*{
+    border:solid;
+}
+
+.header{
+    background-color:lemonchiffon;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:space-evenly ;
+
+
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+
+body{
+    background-color:#102030
+}
